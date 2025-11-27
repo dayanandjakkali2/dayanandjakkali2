@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 ## 🌐 Connect with Me:
 📧 Email: dayanandjakkali@gmail.com 
-💼 LinkedIn:dayanand8088 (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayanandjakkali@gmail.com) 
+💼 LinkedIn:dayanand8088 (https://www.linkedin.com/in/dayanand-jakkali/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
