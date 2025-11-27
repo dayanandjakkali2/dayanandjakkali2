@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔹 I'm *Dayanand Jakkali*
-🔹 Currently learning **Java** to build a strong career in software development  
+🔹 “I have completed training in **Advanced Java** along with **Spring Boot** and **Hibernate**.” 
 🔹 Skilled in **C#** and exploring backend development  
 🔹 I enjoy problem-solving and creating projects that improve my coding skills  
 
@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandjakkali2&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🚀 Goals:
-- Master **Java** and OOP concepts  
+- Master in **Advanced Java** and **OOP** concepts.  
 - Build projects to strengthen my portfolio  
 - Get a software development job 💻  
 
